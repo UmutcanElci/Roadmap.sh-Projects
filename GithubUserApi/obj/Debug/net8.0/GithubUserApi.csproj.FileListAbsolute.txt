@@ -1,0 +1,14 @@
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\bin\Debug\net8.0\GithubUserApi.exe
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\bin\Debug\net8.0\GithubUserApi.deps.json
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\bin\Debug\net8.0\GithubUserApi.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\bin\Debug\net8.0\GithubUserApi.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\bin\Debug\net8.0\GithubUserApi.pdb
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.AssemblyInfoInputs.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.AssemblyInfo.cs
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.csproj.CoreCompileInputs.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\refint\GithubUserApi.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.pdb
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\GithubUserApi.genruntimeconfig.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\GithubUserApi\obj\Debug\net8.0\ref\GithubUserApi.dll
