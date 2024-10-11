@@ -1,0 +1,15 @@
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\bin\Debug\net8.0\NumberGuessing.exe
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\bin\Debug\net8.0\NumberGuessing.deps.json
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\bin\Debug\net8.0\NumberGuessing.runtimeconfig.json
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\bin\Debug\net8.0\NumberGuessing.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\bin\Debug\net8.0\NumberGuessing.pdb
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.sourcelink.json
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\refint\NumberGuessing.dll
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.pdb
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\Malat\Desktop\Code\RoadmapProjects\NumberGuessing\obj\Debug\net8.0\ref\NumberGuessing.dll
